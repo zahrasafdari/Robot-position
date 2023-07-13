@@ -1,0 +1,24 @@
+Lx: -3
+Ux: +2
+Ly: 1
+Uy: 4
+LZ: -100
+UZ: 100
+Ox: 0
+Oy: 2
+Oz: 0 
+
+N: 2
+-5
+2
+0
+4
+3
+1
+0
+    beGIn west up West  north // comment 1 
+north        north  west East east south 
+{
+    comment2 
+}
+soth east up up  south End
